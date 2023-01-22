@@ -18,7 +18,7 @@ I am interested in <b>Natural Language Processing(NLP)</b>, information extracti
 - 💬 Korean(Native), English(Fluent)
 
 ## Projects
-Check out my <a href="yuheunk.github.io">homepage</a> or connect with me on <a href="https://www.linkedin.com/in/yuheunk/">LinkedIn</a> 🥴
+Check out my <a href="https://yuheunk.github.io">homepage</a> or connect with me on <a href="https://www.linkedin.com/in/yuheunk/">LinkedIn</a> 🥴
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuheunk%2F&count_bg=%236BAFD9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
