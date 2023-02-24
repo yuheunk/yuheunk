@@ -1,10 +1,10 @@
 ## Hello 👋 
 
-My name is pronounced as /<i>Yeo-Eun</i>/ <br>
+My name is pronounced as /<i>Yeo-Eun</i>/ I also go by <b>Rachel</b>, so feel free to call me whichever.<br>
 I am interested in <b>Natural Language Processing(NLP)</b>, information extraction, and deep learning.
 
 ## Education
-- 🆕 First year Ph.D student at Syracuse University iSchool (2022-)
+- Ph.D student at Syracuse University iSchool (2022-)
 - M.S. in Digital Analytics, Yonsei University (2020-2022)
     - Research Assistant @<a href="https://deeptext.yonsei.ac.kr/home">Deep Text Lab</a>
 - B.A. in UIC Economics, Yonsei University (2015-2020)
